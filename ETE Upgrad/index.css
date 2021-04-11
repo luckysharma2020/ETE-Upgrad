@@ -1,0 +1,31 @@
+
+body
+{
+    background-image: url(coronavirus.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+table{
+    margin-left: 80px;
+}
+div
+{
+    
+    width: 90%;
+    
+    padding: 5%;
+    margin: auto;
+}
+label
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+#res
+{
+    background-color: blue;
+    margin-left: 25%;
+    display: none;
+    width: 40%;
+}
